@@ -1,0 +1,46 @@
+.productWrapper {
+    border-radius: 19px;
+    background: #e7e8fe;
+    box-shadow: inset 9px 9px 8px #c7c8da,
+                inset -9px -9px 8px #ffffff;
+    padding: 10px;
+}
+
+.product {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon {
+    font-size: 2rem;
+}
+
+.iconGroup {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-self: flex-end;
+}
+
+.productImage {
+    width: 8rem;
+}
+
+.productName {
+    font-size: 2rem;
+}
+
+.productItem {
+    display: flex;
+    align-items: center;
+}
+
+.productDetails {
+    
+    margin: 0 10px 10px 10px;
+}
+
+.hide {
+    display: none;
+}

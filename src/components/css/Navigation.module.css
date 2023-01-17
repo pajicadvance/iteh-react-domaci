@@ -1,5 +1,5 @@
 #menu {
-	background: #0036cc;
+	background: #466edb;
 	color: #FFF;
 	height: 45px;
 	padding-left: 18px;
@@ -27,6 +27,6 @@
 	font-size: 16px;
 }
 #menu li a:hover {
-	color: #0036cc;
+	color: #466edb;
 	background: #F2F2F2;
 }
