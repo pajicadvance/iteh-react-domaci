@@ -4,6 +4,7 @@
     box-shadow: inset 9px 9px 8px #c7c8da,
                 inset -9px -9px 8px #ffffff;
     padding: 10px;
+    margin-bottom: 1rem;
 }
 
 .product {
@@ -29,6 +30,7 @@
 
 .productName {
     font-size: 2rem;
+    margin-left: 1rem;
 }
 
 .productItem {
